@@ -10,4 +10,6 @@ type: alumni
 left: 2026
 formerly: Engineer
 grp: ren
+career: R&D Scientist at ER-System
+career-as-of: 2026
 ---
