@@ -6,6 +6,10 @@ authors:
   - name: Williamson, Romy
     url: https://romyjw.github.io/
 
+affiliations:
+  - name: UCL
+    url: https://www.ucl.ac.uk/
+
 date: 2025-12-02
 
 abstract: |

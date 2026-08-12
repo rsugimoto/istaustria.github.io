@@ -6,6 +6,10 @@ authors:
   - name: Wang, Stephanie
     url: https://stephaniewang.page/
 
+affiliations:
+  - name: TU Berlin
+    url: https://www.cg.tu-berlin.de/
+
 date: 2025-11-24
 
 abstract: |

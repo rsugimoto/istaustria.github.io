@@ -6,6 +6,12 @@ authors:
   - name: Braune, Theo
     url: https://theofbraune.github.io/blog/
 
+affiliations:
+  - name: Inria Saclay
+    url: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
+  - name: École Polytechnique
+    url: https://www.polytechnique.edu/en
+
 date: 2025-12-10
 
 abstract: |

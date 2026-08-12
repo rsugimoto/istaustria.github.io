@@ -6,6 +6,10 @@ authors:
   - name: Yin, Hesper
     url: https://yhesper.github.io/
 
+affiliations:
+  - name: UC San Diego
+    url: http://visualcomputing.ucsd.edu/index.shtml
+
 date: 2025-11-27
 
 abstract: |
